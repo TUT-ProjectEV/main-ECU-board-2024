@@ -334,6 +334,14 @@
     [
       "a6f2c8d0-7153-435f-8690-872c30ac6e56",
       "CAN-Transceiver"
+    ],
+    [
+      "e4f56512-cc65-4901-a795-709bf8d0df91",
+      "MCU"
+    ],
+    [
+      "5c8dabf1-ec76-45bf-9806-ab8ca39bdae3",
+      "Connectors"
     ]
   ],
   "text_variables": {}
