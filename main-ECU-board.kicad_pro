@@ -342,6 +342,10 @@
     [
       "5c8dabf1-ec76-45bf-9806-ab8ca39bdae3",
       "Connectors"
+    ],
+    [
+      "2f8be702-5d98-41c6-b186-35624bc097b2",
+      "Load-Switch"
     ]
   ],
   "text_variables": {}
