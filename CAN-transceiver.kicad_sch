@@ -525,13 +525,13 @@
     (uuid f8b42b09-27ec-4785-8d28-6b267499abc4)
   )
 
-  (text "TRANSIENT VOLTAGE\nSUPPRESSION" (at 204.47 76.2 0)
+  (text "TRANSIENT VOLTAGE\nSUPPRESSION" (at 204.47 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0f5774fa-c2a6-4672-adb3-2f1847433855)
   )
-  (text "IF THIS DEVICE IS NOT END-NODE,\nTERMINATION RESISTER IS FROM 1K OHM TO 2K OHM.\nYOU CAN CHOOSE WHITCH TERMINATION YOU MOUNT."
-    (at 146.05 50.8 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "IF NOT END-NODE,\nTERMINATION RESISTER IS FROM 1K OHM TO 2K OHM.\n\nIF END-NODE, TERMINATION IS NEEDED.\nCHOOSE NORMAL OR SPLIT TERMINATION."
+    (at 50.8 152.4 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 39ef05b4-e880-470c-864e-a4939f0349ef)
   )
   (text "TERMINATION" (at 146.05 68.58 0)
@@ -541,6 +541,10 @@
   (text "SPLIT\nTERMINATION" (at 160.02 68.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a3abf9c0-1108-40fe-8dbe-c9602d41cb1f)
+  )
+  (text "CAN TRANSCEIVER" (at 190.5 177.8 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid c632c24c-a260-4407-b685-51ac215467a9)
   )
   (text "THE DEVICE IS ONLY USED\nIN NORMAL MODE." (at 106.68 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

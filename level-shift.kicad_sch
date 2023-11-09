@@ -289,6 +289,11 @@
     (uuid eac8e022-1d7f-4700-a29d-a92c38bb4f2c)
   )
 
+  (text "LEVEL SHIFT" (at 190.5 177.8 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid 87d7d1db-f763-48dc-accf-23b0e1fc6592)
+  )
+
   (hierarchical_label "VCC_SIG" (shape output) (at 139.7 76.2 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 43c520ea-9dd5-4bae-9ab9-3babeb56bea2)

@@ -567,9 +567,13 @@
     (uuid fd5caa00-e6c7-4462-944e-3f27dcdf8726)
   )
 
+  (text "LOAD SWITCH" (at 190.5 177.8 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid 16f0d897-934f-45d6-88a2-61be5982963f)
+  )
   (text "WHEN DIAG_EN IS LOW, ~{STx} IS HIGH IMPEDANCE.\nWHEN YOU WANT TO USE THE DIAGNOSTIC FUNCTIONS,\nSET DIAG_EN PIN OF THE DEVICE YOU CHOOSE TO HIGH."
-    (at 203.2 38.1 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (at 38.1 177.8 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 3782fa2e-65ec-4957-b1b3-e8e5d897c904)
   )
 
