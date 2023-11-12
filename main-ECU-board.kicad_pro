@@ -33,7 +33,7 @@
   },
   "erc": {
     "erc_exclusions": [
-      "lib_symbol_issues|495300|1447800|5dbb884d-5dea-4991-a820-a6a86a9ffc7e|00000000-0000-0000-0000-000000000000|||"
+      "lib_symbol_issues|444500|1333500|5dbb884d-5dea-4991-a820-a6a86a9ffc7e|00000000-0000-0000-0000-000000000000|||"
     ],
     "meta": {
       "version": 0
