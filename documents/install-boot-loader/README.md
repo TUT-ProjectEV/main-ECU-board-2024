@@ -13,3 +13,6 @@ Last Updated 2023/11/9
 ### ハードウェアの準備
 
 ## ブートローダの書き込み
+
+## Reference
+- [自作Arduino Uno R4 Minimaにブートローダーを書き込む](https://zenn.dev/ichirowo/articles/6aa1614e102bce)
