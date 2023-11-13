@@ -608,7 +608,7 @@
   (symbol (lib_id "power:GND") (at 182.88 82.55 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e758609-30bb-4f83-9806-a63b8bc2c86e)
-    (property "Reference" "#PWR035" (at 189.23 82.55 0)
+    (property "Reference" "#PWR034" (at 189.23 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 186.69 82.55 90)
@@ -624,7 +624,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f/a6f2c8d0-7153-435f-8690-872c30ac6e56"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR034") (unit 1)
         )
       )
     )
@@ -662,7 +662,7 @@
   (symbol (lib_id "power:GND") (at 134.62 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22356471-90de-4e72-a783-3d943ef2e21b)
-    (property "Reference" "#PWR034" (at 134.62 107.95 0)
+    (property "Reference" "#PWR033" (at 134.62 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 134.62 106.68 0)
@@ -678,7 +678,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f/a6f2c8d0-7153-435f-8690-872c30ac6e56"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR033") (unit 1)
         )
       )
     )
@@ -687,7 +687,7 @@
   (symbol (lib_id "power:GND") (at 99.06 81.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 31ea5c31-cf83-4e32-861b-f2db807493dd)
-    (property "Reference" "#PWR032" (at 92.71 81.28 0)
+    (property "Reference" "#PWR031" (at 92.71 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 95.25 81.28 90)
@@ -703,7 +703,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f/a6f2c8d0-7153-435f-8690-872c30ac6e56"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -770,7 +770,7 @@
   (symbol (lib_id "power:GND") (at 205.74 82.55 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4330767c-4219-4733-a787-cb6311dfdc72)
-    (property "Reference" "#PWR036" (at 212.09 82.55 0)
+    (property "Reference" "#PWR035" (at 212.09 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 209.55 82.55 90)
@@ -786,7 +786,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f/a6f2c8d0-7153-435f-8690-872c30ac6e56"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -919,7 +919,7 @@
   (symbol (lib_id "power:GND") (at 101.6 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1ae3b03-c74b-46dc-9a0b-5499b7364f1c)
-    (property "Reference" "#PWR033" (at 101.6 69.85 0)
+    (property "Reference" "#PWR032" (at 101.6 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 68.58 0)
@@ -935,7 +935,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f/a6f2c8d0-7153-435f-8690-872c30ac6e56"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR032") (unit 1)
         )
       )
     )

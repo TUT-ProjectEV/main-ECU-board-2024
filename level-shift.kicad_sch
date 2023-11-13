@@ -389,7 +389,7 @@
   (symbol (lib_id "power:GND") (at 127 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4210b1f-c7a1-4a48-9e04-34f6377d4280)
-    (property "Reference" "#PWR091" (at 127 110.49 0)
+    (property "Reference" "#PWR090" (at 127 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 127 109.22 0)
@@ -405,7 +405,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f/aaf3b5fe-1b86-4630-ab8c-ff326b8bda0a"
-          (reference "#PWR091") (unit 1)
+          (reference "#PWR090") (unit 1)
         )
       )
     )
