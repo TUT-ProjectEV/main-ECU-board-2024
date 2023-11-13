@@ -1529,7 +1529,7 @@
   (symbol (lib_id "power:+5V") (at 35.56 167.64 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 047b1a29-4dcd-4221-94ab-aa91d4ec2435)
-    (property "Reference" "#PWR079" (at 39.37 167.64 0)
+    (property "Reference" "#PWR03" (at 39.37 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 31.75 167.64 90)
@@ -1545,7 +1545,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR079") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -1554,7 +1554,7 @@
   (symbol (lib_id "power:+BATT") (at 110.49 30.48 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2e3c3b7d-84cc-44f3-b428-f295f190fce0)
-    (property "Reference" "#PWR076" (at 106.68 30.48 0)
+    (property "Reference" "#PWR011" (at 106.68 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 114.3 30.48 90)
@@ -1570,7 +1570,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR076") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -1579,7 +1579,7 @@
   (symbol (lib_id "power:+5V") (at 45.72 27.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2e7f8927-a5ed-4043-8827-ea1e754a0f6e)
-    (property "Reference" "#PWR078" (at 49.53 27.94 0)
+    (property "Reference" "#PWR04" (at 49.53 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 41.91 27.94 90)
@@ -1595,7 +1595,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR078") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -1604,7 +1604,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 107.95 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2fc50d9c-4b90-4723-83d1-bd3691e47801)
-    (property "Reference" "#FLG02" (at 107.95 26.035 0)
+    (property "Reference" "#FLG03" (at 107.95 26.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 107.95 22.86 0)
@@ -1620,7 +1620,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#FLG02") (unit 1)
+          (reference "#FLG03") (unit 1)
         )
       )
     )
@@ -1629,7 +1629,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 93.98 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 50391da2-5797-40da-abe3-02a3c2af851e)
-    (property "Reference" "#FLG01" (at 93.98 23.495 0)
+    (property "Reference" "#FLG02" (at 93.98 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 93.98 20.32 0)
@@ -1645,7 +1645,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#FLG01") (unit 1)
+          (reference "#FLG02") (unit 1)
         )
       )
     )
@@ -1654,7 +1654,7 @@
   (symbol (lib_id "power:+5V") (at 149.86 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5092c2d8-b041-4d0e-895b-6ba8da4d2830)
-    (property "Reference" "#PWR084" (at 153.67 132.08 0)
+    (property "Reference" "#PWR015" (at 153.67 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 146.05 132.08 90)
@@ -1670,7 +1670,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR084") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -1679,7 +1679,7 @@
   (symbol (lib_id "power:+5V") (at 45.72 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5be916e5-3a03-4e7a-8796-6ae119841f4c)
-    (property "Reference" "#PWR081" (at 49.53 86.36 0)
+    (property "Reference" "#PWR05" (at 49.53 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 41.91 86.36 90)
@@ -1695,7 +1695,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR081") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -1704,7 +1704,7 @@
   (symbol (lib_id "power:+BATT") (at 45.72 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 64ab1fb5-d88f-42b6-a825-fe5540471b0f)
-    (property "Reference" "#PWR038" (at 49.53 101.6 0)
+    (property "Reference" "#PWR08" (at 49.53 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 41.91 101.6 90)
@@ -1720,7 +1720,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR08") (unit 1)
         )
       )
     )
@@ -1748,7 +1748,7 @@
           (reference "#PWR053") (unit 1)
         )
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -1757,7 +1757,7 @@
   (symbol (lib_id "power:+5V") (at 45.72 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c9b02ff-b8c8-4ded-9a18-9ebbf790470f)
-    (property "Reference" "#PWR082" (at 49.53 93.98 0)
+    (property "Reference" "#PWR07" (at 49.53 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 41.91 93.98 90)
@@ -1773,7 +1773,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR082") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -1782,7 +1782,7 @@
   (symbol (lib_id "power:VBUS") (at 35.56 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ec3d5f1-e375-4a81-b0d5-ef3d42949427)
-    (property "Reference" "#PWR052" (at 39.37 149.86 0)
+    (property "Reference" "#PWR02" (at 39.37 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (at 31.75 149.86 90)
@@ -1798,7 +1798,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -1807,7 +1807,7 @@
   (symbol (lib_id "power:+3V3") (at 45.72 91.44 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8969176e-f0ba-4642-a74b-54588ce97b5d)
-    (property "Reference" "#PWR080" (at 49.53 91.44 0)
+    (property "Reference" "#PWR06" (at 49.53 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 41.91 91.44 90)
@@ -1823,7 +1823,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR080") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -1832,7 +1832,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 66.04 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 937025dc-ed85-46a0-a434-fceb2c947f91)
-    (property "Reference" "#FLG04" (at 66.04 137.795 0)
+    (property "Reference" "#FLG01" (at 66.04 137.795 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 66.04 134.62 0)
@@ -1848,7 +1848,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#FLG04") (unit 1)
+          (reference "#FLG01") (unit 1)
         )
       )
     )
@@ -1857,7 +1857,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 137.16 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ddb45d3-3db9-4d8d-92df-5de1f34d7568)
-    (property "Reference" "#FLG03" (at 137.16 69.215 0)
+    (property "Reference" "#FLG04" (at 137.16 69.215 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 137.16 66.04 0)
@@ -1873,7 +1873,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#FLG03") (unit 1)
+          (reference "#FLG04") (unit 1)
         )
       )
     )
@@ -1882,7 +1882,7 @@
   (symbol (lib_id "power:+5V") (at 149.86 27.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a29c4116-2b44-45e2-a455-9e6b0889317d)
-    (property "Reference" "#PWR083" (at 153.67 27.94 0)
+    (property "Reference" "#PWR014" (at 153.67 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 146.05 27.94 90)
@@ -1898,7 +1898,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR083") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -1907,7 +1907,7 @@
   (symbol (lib_id "power:VBUS") (at 96.52 27.94 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b66f2f1e-2fe8-42bf-a226-30a952065b61)
-    (property "Reference" "#PWR077" (at 92.71 27.94 0)
+    (property "Reference" "#PWR010" (at 92.71 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (at 100.33 27.94 90)
@@ -1923,7 +1923,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR077") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -1932,7 +1932,7 @@
   (symbol (lib_id "power:+BATT") (at 35.56 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c03e3dce-588e-46e5-b8dc-6dae9b991a12)
-    (property "Reference" "#PWR013" (at 39.37 142.24 0)
+    (property "Reference" "#PWR01" (at 39.37 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 31.75 142.24 90)
@@ -1948,7 +1948,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -1957,7 +1957,7 @@
   (symbol (lib_id "power:+5V") (at 111.76 167.64 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c8d42d87-46e4-43e8-8de0-d906987faa0f)
-    (property "Reference" "#PWR087" (at 115.57 167.64 0)
+    (property "Reference" "#PWR012" (at 115.57 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 107.95 167.64 90)
@@ -1973,7 +1973,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR087") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -1982,7 +1982,7 @@
   (symbol (lib_id "power:+3V3") (at 134.62 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5b746b7-60c6-4ae1-9f9e-099a2c6b95f5)
-    (property "Reference" "#PWR065" (at 138.43 73.66 0)
+    (property "Reference" "#PWR013" (at 138.43 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 130.81 73.66 90)
@@ -1998,7 +1998,7 @@
     (instances
       (project "main-ECU-board"
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f"
-          (reference "#PWR065") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
