@@ -340,7 +340,7 @@
     (property "Reference" "R50" (at 129.54 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "3k" (at 129.54 71.12 0)
+    (property "Value" "15k" (at 129.54 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 125.222 69.85 90)

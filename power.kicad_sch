@@ -1406,7 +1406,7 @@
     (property "Reference" "D3" (at 232.41 108.2675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "LED" (at 232.41 110.8075 90)
+    (property "Value" "LED_R" (at 232.41 110.8075 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (at 228.6 107.95 0)
