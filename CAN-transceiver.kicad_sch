@@ -803,7 +803,7 @@
     (property "Reference" "R8" (at 137.16 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "3k" (at 137.16 96.52 0)
+    (property "Value" "15k" (at 137.16 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 132.842 95.25 90)
