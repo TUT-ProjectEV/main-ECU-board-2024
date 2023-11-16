@@ -1510,7 +1510,7 @@
     (property "Reference" "R3" (at 104.14 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 104.14 71.12 0)
+    (property "Value" "15k" (at 104.14 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 99.822 69.85 90)
