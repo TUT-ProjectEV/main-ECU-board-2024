@@ -1565,7 +1565,7 @@
     (property "Value" "CUHS20S30" (at 193.04 96.8375 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "SamacSys_Parts:CUHS20S40H3F" (at 190.5 95.25 0)
+    (property "Footprint" "ProjectEV-kicad-library:CUHS20S40H3F" (at 190.5 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 190.5 95.25 0)

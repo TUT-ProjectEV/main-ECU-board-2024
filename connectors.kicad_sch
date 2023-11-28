@@ -4622,7 +4622,7 @@
     (property "Value" "USB_C_Receptacle" (at 38.1 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SamacSys_Parts:5077CR-16-SMC2-BK-TR" (at 41.91 59.69 0)
+    (property "Footprint" "ProjectEV-kicad-library:5077CR-16-SMC2-BK-TR" (at 41.91 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 41.91 59.69 0)
