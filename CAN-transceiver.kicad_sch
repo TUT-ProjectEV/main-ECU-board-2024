@@ -900,7 +900,7 @@
           (reference "IC2") (unit 1)
         )
         (path "/10edd9b6-c7a8-40f4-bfe3-c9724324d30f/a6f2c8d0-7153-435f-8690-872c30ac6e56"
-          (reference "IC1") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
